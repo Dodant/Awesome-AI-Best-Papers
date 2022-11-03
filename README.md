@@ -17,10 +17,10 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2022
 ### ECCV (Tel Aviv / Oct 23-27)
 - **Best Paper** 
-	- On the Versatile Uses of Partial Distance Correlation in Deep Learning
+	- On the Versatile Uses of Partial Distance Correlation in Deep Learning [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_19)
 - **Best Paper Honorable Mention** 
-	- Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields
-	- A Level Set Theory for Neural Implicit Evolution under Explicit Flows
+	- Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields [[Link]](https://arxiv.org/abs/2207.13807)
+	- A Level Set Theory for Neural Implicit Evolution under Explicit Flows [[Link]](https://ishit.github.io/static/nie_main.pdf)
 
 ### CVPR (New Orleans, Louisiana / Jun 19-24)
 - **Best Paper** 
@@ -99,6 +99,55 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- A Style-Based Generator Architecture for Generative Adversarial Networks
 	- Learning the Depths of Moving People by Watching Frozen People
 
+
+## 2018
+### CVPR (Salt Lake City / Jun 18-22)
+- **Best Paper** 
+	- Taskonomy: Disentangling Task Transfer Learning
+- **Best Paper Honorable Mention** 
+	- Deep Learning of Graph Matching
+	- SPLATNet: Sparse Lattice Networks for Point Cloud Processing
+	- CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM
+	- Efficient Optimization for Rank-Based Loss Functions
+
+## 2017
+### CVPR (Honolulu / Jul 21-26)
+- **Best Paper** 
+	- Densely Connected Convolutional Networks
+	- Learning from Simulated and Unsupervised Images through Adversarial Training
+- **Best Paper Honorable Mention** 
+	- Annotating Object Instances with a Polygon-RNN
+	- YOLO9000: Better, Faster, Stronger
+
+## 2016
+### CVPR (Las Vegas / Jun 26 - Jul 1)
+- **Best Paper** 
+	- Deep Residual Learning for Image Recognition
+- **Best Paper Honorable Mention** 
+	- Sublabel-Accurate Relaxation of Nonconvex Energies
+
+## 2015
+### CVPR (Boston / Jun 7-12)
+- **Best Paper** 
+	- DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time
+- **Best Paper Honorable Mention** 
+	- Efficient Globally Optimal Consensus Maximisation with Tree Search
+	- Fully Convolutional Networks for Semantic Segmentation
+	- Picture: A Probabilistic Programming Language for Scene Perception
+
+## 2014
+### CVPR (Columbus, Ohio / Jun 23-28)
+- **Best Paper** 
+	- What Camera Motion Reveals About Shape with Unknown BRDF
+- **Best Paper Honorable Mention** 
+	- 3D Shape and Indirect Appearance by Structured Light Transport
+
+## 2013
+### CVPR (Portland / Jun 23-28)
+- **Best Paper** 
+	- Fast, Accurate Detection of 100,000 Object Classes on a Single Machine
+- **Best Paper Honorable Mention** 
+	- Lost! Leveraging the Crowd for Probabilistic Visual Self-Localization
 
 
 TBU
