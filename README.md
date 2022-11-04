@@ -7,10 +7,13 @@ If you have any comments, suggestions and improvements, please submit the issue 
 * [2019](#2019) / [2018](#2018) / [2017](#2017) / [2016](#2016) / [2015](#2015) / [2014](#2014) / [2013](#2013)
 
 ## Conferences
-- CVPR (*Computer Vision and Pattern Recognition*) - Annual
-- ICCV (*International Conference on Computer Vision*) - Biaunnal (2021, 2019, ...)
+- CVPR (*IEEE/CVF Conference on Computer Vision and Pattern Recognition*)
+- ICCV (*IEEE/CVF International Conference on Computer Vision*) - Biaunnal (2021, 2019, ...)
 - ECCV (*European Conference on Computer Vision*) - Biaunnal (2022, 2020, ...)
-- NeurIPS (*Neural Information Processing Systems*) - Annual
+- NeurIPS (*Neural Information Processing Systems*)
+- ICLR (*International Conference on Learning Representations*)
+- ICML (*International Conference on Machine Learning*)
+- AAAI (*AAAI Conference on Artificial Intelligence*)
 - TBU...
 
 
