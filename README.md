@@ -63,20 +63,20 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2020
 ### NeurIPS (Virtual / Dec 6-12)
 - **Best Paper**
-	- Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nyström Method
-	- Language Models are Few-Shot Learners
-	- No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium
+	- Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nyström Method [[Link]](https://proceedings.neurips.cc/paper/2020/hash/342c472b95d00421be10e9512b532866-Abstract.html)
+	- Language Models are Few-Shot Learners [[Link]](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
+	- No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium [[Link]](https://proceedings.neurips.cc/paper/2020/hash/5763abe87ed1938799203fb6e8650025-Abstract.html)
 
 ### ECCV (Online / Aug 23-28)
 - **Best Paper** 
-	- RAFT: Recurrent All-Pairs Field Transforms for Optical Flow
+	- RAFT: Recurrent All-Pairs Field Transforms for Optical Flow [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_24)
 - **Best Paper Honorable Mention** 
-	- Towards Streaming Perception
-	- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+	- Towards Streaming Perception [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_28)
+	- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Link]](https://dl.acm.org/doi/abs/10.1145/3503250)
 
 ### CVPR (Virtual / Jun 14-19)
 - **Best Paper** 
-	- Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild
+	- Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild [[Link]](http://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.html)
 
 
 
