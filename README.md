@@ -90,17 +90,17 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 ### ICCV (Seoul, Korea / Oct 27 - Nov 2)
 - **Best Paper** 
-	- SinGAN: Learning a Generative Model from a Single Natural Image
+	- SinGAN: Learning a Generative Model from a Single Natural Image [[Link]](http://openaccess.thecvf.com/content_ICCV_2019/html/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.html)
 - **Best Paper Honorable Mention** 
-	- Asynchronous Single-Photon 3D Imaging
-	- Specifying Object Attributes and Relations in Interactive Scene Generation
+	- Asynchronous Single-Photon 3D Imaging [[Link]](http://openaccess.thecvf.com/content_ICCV_2019/html/Gupta_Asynchronous_Single-Photon_3D_Imaging_ICCV_2019_paper.html)
+	- Specifying Object Attributes and Relations in Interactive Scene Generation [[Link]](http://openaccess.thecvf.com/content_ICCV_2019/html/Ashual_Specifying_Object_Attributes_and_Relations_in_Interactive_Scene_Generation_ICCV_2019_paper.html)
 
 ### CVPR (Long Beach, CA / Jun 16-20)
 - **Best Paper** 
-	- A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction
+	- A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction [[Link]](http://openaccess.thecvf.com/content_CVPR_2019/html/Xin_A_Theory_of_Fermat_Paths_for_Non-Line-Of-Sight_Shape_Reconstruction_CVPR_2019_paper.html)
 - **Best Paper Honorable Mention** 
-	- A Style-Based Generator Architecture for Generative Adversarial Networks
-	- Learning the Depths of Moving People by Watching Frozen People
+	- A Style-Based Generator Architecture for Generative Adversarial Networks [[Link]](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
+	- Learning the Depths of Moving People by Watching Frozen People [[Link]](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.html)
 
 
 ## 2018
