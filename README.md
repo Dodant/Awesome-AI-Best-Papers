@@ -8,8 +8,8 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 ## Conferences
 - CVPR (*IEEE/CVF Conference on Computer Vision and Pattern Recognition*)
-- ICCV (*IEEE/CVF International Conference on Computer Vision*) - Biaunnal (2021, 2019, ...)
-- ECCV (*European Conference on Computer Vision*) - Biaunnal (2022, 2020, ...)
+- ICCV (*IEEE/CVF International Conference on Computer Vision*) - Odd Years
+- ECCV (*European Conference on Computer Vision*) - Even Years
 - NeurIPS (*Neural Information Processing Systems*)
 - ICLR (*International Conference on Learning Representations*)
 - ICML (*International Conference on Machine Learning*)
