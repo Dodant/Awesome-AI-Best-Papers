@@ -104,6 +104,13 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2018
+### ECCV
+- **Best Paper** 
+	- Implicit 3D Orientation Learning for 6D Object Detection from RGB Images
+- **Best Paper Honorable Mention** 
+	- Group Normalization
+	- GANimation: Anatomically-aware Facial Animation from a Single Image
+	
 ### CVPR (Salt Lake City / Jun 18-22)
 - **Best Paper** 
 	- Taskonomy: Disentangling Task Transfer Learning [[Link]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.html)
@@ -133,6 +140,12 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- YOLO9000: Better, Faster, Stronger [[Link]](http://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)
 
 ## 2016
+### ECCV
+- **Best Paper** 
+	- Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera
+- **Best Paper Honorable Mention**
+	- The Fast Bilateral Solver
+	
 ### CVPR (Las Vegas / Jun 26 - Jul 1)
 - **Best Paper** 
 	- Deep Residual Learning for Image Recognition
@@ -155,6 +168,11 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- Picture: A Probabilistic Programming Language for Scene Perception
 
 ## 2014
+### ECCV
+- **Best Paper** 
+	- Large-Scale Object Classification using Label Relation Graphs
+	- Scene Chronology
+
 ### CVPR (Columbus, Ohio / Jun 23-28)
 - **Best Paper** 
 	- What Camera Motion Reveals About Shape with Unknown BRDF
