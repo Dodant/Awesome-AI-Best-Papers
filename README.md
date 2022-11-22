@@ -18,6 +18,12 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2022
+### AAAI
+- **Outstanding Paper** 
+	- Online Certification of Preference-based Fairness for Personalized Recommender Systems
+- **Outstanding Paper Honorable Mention** 
+	- Bayesian Persuasion in Sequential Decision-Making
+	- Operator-Potential Heuristics for Symbolic Search
 ### ECCV (Tel Aviv / Oct 23-27)
 - **Best Paper** 
 	- On the Versatile Uses of Partial Distance Correlation in Deep Learning [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_19)
@@ -33,6 +39,13 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2021
+### AAAI
+- **Outstanding Paper** 
+	- Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+	- Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory
+- **Outstanding Paper Honorable Mention** 
+	- Learning from eXtreme Bandit Feedback
+	- Self-Attention Attribution: Interpreting Information Interactions Inside Transformer
 ### NeurIPS (Virtual / Dec 6-14)
 - **Outstanding Paper** 
 	- A Universal Law of Robustness via Isoperimetry [[Link]](https://openreview.net/forum?id=z71OSKqTFh7)
@@ -61,6 +74,12 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2020
+### AAAI
+- **Outstanding Paper** 
+	- WinoGrande: An Adversarial Winograd Schema Challenge at Scale
+- **Outstanding Paper Honorable Mention** 
+	- A Unifying View on Individual Bounds and Heuristic Inaccuracies in Bidirectional Search
+
 ### NeurIPS (Virtual / Dec 6-12)
 - **Best Paper**
 	- Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nyström Method [[Link]](https://proceedings.neurips.cc/paper/2020/hash/342c472b95d00421be10e9512b532866-Abstract.html)
@@ -81,6 +100,11 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2019
+### AAAI
+- **Outstanding Paper** 
+	- How to Combine Tree-Search Methods in Reinforcement Learning
+- **Outstanding Paper Honorable Mention** 
+	- Solving Imperfect-Information Games with Discounted Counterfactual Regret Minimization
 ### NeurIPS (Vancouver, Canada / Dec 8-14)
 - **Outstanding Paper** 
 	- Distribution-Independent PAC Learning of Halfspaces with Massart Noise [[Link]](https://papers.nips.cc/paper/8722-distribution-independent-pac-learning-of-halfspaces-with-massart-noise)
@@ -104,7 +128,19 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2018
-### ECCV
+### AAAI
+- **Outstanding Paper** 
+	- Memory-Augmented Monte Carlo Tree Search
+- **Outstanding Paper Honorable Mention** 
+	- Generalized Adjustment under Confounding and Selection Biases
+
+### NeurIPS
+- **Best Paper** 
+	- Non-delusional Q-learning and Value-iteration
+	- Optimal Algorithms for Non-Smooth Distributed Optimization in Networks
+	- Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes
+	- Neural Ordinary Differential Equations
+### ECCV (Munich, Germany)
 - **Best Paper** 
 	- Implicit 3D Orientation Learning for 6D Object Detection from RGB Images [[Link]](http://openaccess.thecvf.com/content_ECCV_2018/html/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.html)
 - **Best Paper Honorable Mention** 
@@ -121,6 +157,15 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- Efficient Optimization for Rank-Based Loss Functions [[Link]](http://openaccess.thecvf.com/content_cvpr_2018/html/Mohapatra_Efficient_Optimization_for_CVPR_2018_paper.html)
 
 ## 2017
+### AAAI
+- **Outstanding Paper** 
+	- Label-Free Supervision of Neural Networks with Physics and Domain Knowledge
+
+### NeurIPS
+- **Best Paper** 
+	- Safe and Nested Subgame Solving for Imperfect-Information Games
+	- Variance-based Regularization with Convex Objectives
+	- A Linear-Time Kernel Goodness-of-Fit Test
 ### ICCV (Venice, Italy / Oct 22-29)
 - **Best Paper** 
 	- Mask R-CNN [[Link]](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)
@@ -140,7 +185,15 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- YOLO9000: Better, Faster, Stronger [[Link]](http://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)
 
 ## 2016
-### ECCV
+### AAAI
+- **Outstanding Paper** 
+	- Bidirectional Search That Is Guaranteed to Meet in the Middle
+### NeurIPS
+- **Best Paper** 
+	- Value Iteration Networks
+- **Best Student Paper** 
+	- Matrix Completion has No Spurious Local Minimum
+### ECCV (Amsterdam, Netherlands)
 - **Best Paper** 
 	- Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera [[Link]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_21)
 - **Best Paper Honorable Mention**
@@ -153,7 +206,16 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- Sublabel-Accurate Relaxation of Nonconvex Energies [[Link]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mollenhoff_Sublabel-Accurate_Relaxation_of_CVPR_2016_paper.html)
 
 ## 2015
-### ICCV
+### AAAI
+- **Outstanding Paper** 
+	- From Non-Negative to General Operator Cost Partitioning
+- **Outstanding Paper Honorable Mention** 
+	- Predicting the Demographics of Twitter Users from Website Traffic Data
+### NeurIPS
+- **Best Paper** 
+	- Competitive Distribution Estimation: Why is Good-Turing Good
+	- Fast Convergence of Regularized Learning in Games
+### ICCV (Santiago, Chile)
 - **Best Paper** 
 	- Deep Neural Decision Forests [[Link]](http://openaccess.thecvf.com/content_iccv_2015/html/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.html)
 - **Best Paper Honorable Mention** 
@@ -168,7 +230,19 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- Picture: A Probabilistic Programming Language for Scene Perception [[Link]](http://openaccess.thecvf.com/content_cvpr_2015/html/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.html)
 
 ## 2014
-### ECCV
+### AAAI
+- **Outstanding Paper** 
+	- Recovering from Selection Bias in Causal and Statistical Inference
+- **Outstanding Paper Honorable Mention** 
+	- Placement of Loading Stations for Electric Vehicles: No Detours Necessary! 
+	- Manifold Learning for Jointly Modeling Topic and Visualization
+	- Tractability through Exchangeability: A New Perspective on Efficient Probabilistic Inference
+	- Generalized Label Reduction for Merge-and-Shrink Heuristics
+### NeurIPS
+- **Best Paper** 
+	- Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)
+	- A* Sampling
+### ECCV (Zürich, Switzerland)
 - **Best Paper** 
 	- Large-Scale Object Classification using Label Relation Graphs [[Link]](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_4)
 	- Scene Chronology [[Link]](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_40)
@@ -180,7 +254,21 @@ If you have any comments, suggestions and improvements, please submit the issue 
 	- 3D Shape and Indirect Appearance by Structured Light Transport [[Link]](http://openaccess.thecvf.com/content_cvpr_2014/html/OToole_3D_Shape_and_2014_CVPR_paper.html)
 
 ## 2013
-### ICCV
+### AAAI
+- **Outstanding Paper** 
+	- SMILe: Shuffled Multiple-Instance Learning
+	- HC-Search: Learning Heuristics and Cost Functions for Structured Prediction
+- **Outstanding Paper Honorable Mention** 
+	- On the Value of Using Group Discounts under Price Competition
+	- PAC Optimal Exploration in Continuous Space Markov Decision Processes
+	- Sensitivity of Diffusion Dynamics to Network Uncertainty
+	- Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers
+### NeurIPS
+- **Best Paper** 
+	- A Memory Frontier for Complex Synapses
+	- Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints
+	- Scalable Influence Estimation in Continuous-Time Diffusion Networks
+### ICCV (Sydney, Australia)
 - **Best Paper** 
 	- From Large Scale Image Categorization to Entry- Level Categories [[Link]](https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Ordonez_From_Large_Scale_2013_ICCV_paper.html)
 - **Best Paper Honorable Mention** 
