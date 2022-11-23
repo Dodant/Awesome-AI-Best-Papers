@@ -20,10 +20,10 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2022
 ### AAAI
 - **Outstanding Paper** 
-	- Online Certification of Preference-based Fairness for Personalized Recommender Systems
+	- Online Certification of Preference-based Fairness for Personalized Recommender Systems [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/20606)
 - **Outstanding Paper Honorable Mention** 
-	- Bayesian Persuasion in Sequential Decision-Making
-	- Operator-Potential Heuristics for Symbolic Search
+	- Bayesian Persuasion in Sequential Decision-Making [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/20434)
+	- Operator-Potential Heuristics for Symbolic Search [[Link]](https://www.aaai.org/AAAI22Papers/AAAI-2018.FiserD.pdf)
 ### ECCV (Tel Aviv / Oct 23-27)
 - **Best Paper** 
 	- On the Versatile Uses of Partial Distance Correlation in Deep Learning [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_19)
@@ -41,11 +41,11 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2021
 ### AAAI
 - **Outstanding Paper** 
-	- Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
-	- Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory
+	- Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/17325)
+	- Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory [[Link]](https://www.sciencedirect.com/science/article/pii/S0004370221002046)
 - **Outstanding Paper Honorable Mention** 
-	- Learning from eXtreme Bandit Feedback
-	- Self-Attention Attribution: Interpreting Information Interactions Inside Transformer
+	- Learning from eXtreme Bandit Feedback [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/17058)
+	- Self-Attention Attribution: Interpreting Information Interactions Inside Transformer [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/17533)
 ### NeurIPS (Virtual / Dec 6-14)
 - **Outstanding Paper** 
 	- A Universal Law of Robustness via Isoperimetry [[Link]](https://openreview.net/forum?id=z71OSKqTFh7)
@@ -76,9 +76,9 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2020
 ### AAAI
 - **Outstanding Paper** 
-	- WinoGrande: An Adversarial Winograd Schema Challenge at Scale
+	- WinoGrande: An Adversarial Winograd Schema Challenge at Scale [[Link]](https://dl.acm.org/doi/abs/10.1145/3474381)
 - **Outstanding Paper Honorable Mention** 
-	- A Unifying View on Individual Bounds and Heuristic Inaccuracies in Bidirectional Search
+	- A Unifying View on Individual Bounds and Heuristic Inaccuracies in Bidirectional Search [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/5611)
 
 ### NeurIPS (Virtual / Dec 6-12)
 - **Best Paper**
@@ -102,9 +102,9 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2019
 ### AAAI
 - **Outstanding Paper** 
-	- How to Combine Tree-Search Methods in Reinforcement Learning
+	- How to Combine Tree-Search Methods in Reinforcement Learning [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/4227)
 - **Outstanding Paper Honorable Mention** 
-	- Solving Imperfect-Information Games with Discounted Counterfactual Regret Minimization
+	- Solving Imperfect-Information Games with Discounted Counterfactual Regret Minimization [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/4007)
 ### NeurIPS (Vancouver, Canada / Dec 8-14)
 - **Outstanding Paper** 
 	- Distribution-Independent PAC Learning of Halfspaces with Massart Noise [[Link]](https://papers.nips.cc/paper/8722-distribution-independent-pac-learning-of-halfspaces-with-massart-noise)
