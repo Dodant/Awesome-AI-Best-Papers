@@ -130,16 +130,16 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2018
 ### AAAI
 - **Outstanding Paper** 
-	- Memory-Augmented Monte Carlo Tree Search
+	- Memory-Augmented Monte Carlo Tree Search [[Link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17139/0)
 - **Outstanding Paper Honorable Mention** 
-	- Generalized Adjustment under Confounding and Selection Biases
+	- Generalized Adjustment under Confounding and Selection Biases [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/12125)
 
 ### NeurIPS
 - **Best Paper** 
-	- Non-delusional Q-learning and Value-iteration
-	- Optimal Algorithms for Non-Smooth Distributed Optimization in Networks
-	- Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes
-	- Neural Ordinary Differential Equations
+	- Non-delusional Q-learning and Value-iteration [[Link]](https://proceedings.neurips.cc/paper/2018/hash/5fd0245f6c9ddbdf3eff0f505975b6a7-Abstract.html)
+	- Optimal Algorithms for Non-Smooth Distributed Optimization in Networks [[Link]](https://proceedings.neurips.cc/paper/2018/hash/8fb21ee7a2207526da55a679f0332de2-Abstract.html)
+	- Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes [[Link]](https://proceedings.neurips.cc/paper/2018/hash/70ece1e1e0931919438fcfc6bd5f199c-Abstract.html)
+	- Neural Ordinary Differential Equations [[Link]](https://proceedings.neurips.cc/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html)
 ### ECCV (Munich, Germany)
 - **Best Paper** 
 	- Implicit 3D Orientation Learning for 6D Object Detection from RGB Images [[Link]](http://openaccess.thecvf.com/content_ECCV_2018/html/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.html)
@@ -159,13 +159,13 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2017
 ### AAAI
 - **Outstanding Paper** 
-	- Label-Free Supervision of Neural Networks with Physics and Domain Knowledge
+	- Label-Free Supervision of Neural Networks with Physics and Domain Knowledge [[Link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14967)
 
 ### NeurIPS
 - **Best Paper** 
-	- Safe and Nested Subgame Solving for Imperfect-Information Games
-	- Variance-based Regularization with Convex Objectives
-	- A Linear-Time Kernel Goodness-of-Fit Test
+	- Safe and Nested Subgame Solving for Imperfect-Information Games [[Link]](https://proceedings.neurips.cc/paper/2017/hash/7fe1f8abaad094e0b5cb1b01d712f708-Abstract.html)
+	- Variance-based Regularization with Convex Objectives [[Link]](https://proceedings.neurips.cc/paper/2017/hash/5a142a55461d5fef016acfb927fee0bd-Abstract.html)
+	- A Linear-Time Kernel Goodness-of-Fit Test [[Link]](https://proceedings.neurips.cc/paper/2017/hash/979d472a84804b9f647bc185a877a8b5-Abstract.html)
 ### ICCV (Venice, Italy / Oct 22-29)
 - **Best Paper** 
 	- Mask R-CNN [[Link]](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)
@@ -187,12 +187,12 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2016
 ### AAAI
 - **Outstanding Paper** 
-	- Bidirectional Search That Is Guaranteed to Meet in the Middle
+	- Bidirectional Search That Is Guaranteed to Meet in the Middle [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/10436)
 ### NeurIPS
 - **Best Paper** 
-	- Value Iteration Networks
+	- Value Iteration Networks [[Link]](https://proceedings.neurips.cc/paper/2016/hash/c21002f464c5fc5bee3b98ced83963b8-Abstract.html)
 - **Best Student Paper** 
-	- Matrix Completion has No Spurious Local Minimum
+	- Matrix Completion has No Spurious Local Minimum [[Link]](https://proceedings.neurips.cc/paper/6048-matrix-completion-has-no-spurious-local-minimum)
 ### ECCV (Amsterdam, Netherlands)
 - **Best Paper** 
 	- Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera [[Link]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_21)
@@ -208,13 +208,13 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2015
 ### AAAI
 - **Outstanding Paper** 
-	- From Non-Negative to General Operator Cost Partitioning
+	- From Non-Negative to General Operator Cost Partitioning [[Link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9983)
 - **Outstanding Paper Honorable Mention** 
-	- Predicting the Demographics of Twitter Users from Website Traffic Data
+	- Predicting the Demographics of Twitter Users from Website Traffic Data [[Link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9945)
 ### NeurIPS
 - **Best Paper** 
-	- Competitive Distribution Estimation: Why is Good-Turing Good
-	- Fast Convergence of Regularized Learning in Games
+	- Competitive Distribution Estimation: Why is Good-Turing Good [[Link]](https://proceedings.neurips.cc/paper/2015/hash/d759175de8ea5b1d9a2660e45554894f-Abstract.html)
+	- Fast Convergence of Regularized Learning in Games [[Link]](https://proceedings.neurips.cc/paper/2015/hash/7fea637fd6d02b8f0adf6f7dc36aed93-Abstract.html)
 ### ICCV (Santiago, Chile)
 - **Best Paper** 
 	- Deep Neural Decision Forests [[Link]](http://openaccess.thecvf.com/content_iccv_2015/html/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.html)
@@ -232,16 +232,16 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2014
 ### AAAI
 - **Outstanding Paper** 
-	- Recovering from Selection Bias in Causal and Statistical Inference
+	- Recovering from Selection Bias in Causal and Statistical Inference [[Link]](https://dl.acm.org/doi/pdf/10.1145/3501714.3501740)
 - **Outstanding Paper Honorable Mention** 
-	- Placement of Loading Stations for Electric Vehicles: No Detours Necessary! 
-	- Manifold Learning for Jointly Modeling Topic and Visualization
-	- Tractability through Exchangeability: A New Perspective on Efficient Probabilistic Inference
-	- Generalized Label Reduction for Merge-and-Shrink Heuristics
+	- Placement of Loading Stations for Electric Vehicles: No Detours Necessary! [[Link]](https://www.jair.org/index.php/jair/article/view/10951)
+	- Manifold Learning for Jointly Modeling Topic and Visualization [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/8964)
+	- Tractability through Exchangeability: A New Perspective on Efficient Probabilistic Inference [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/9073)
+	- Generalized Label Reduction for Merge-and-Shrink Heuristics [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/9028)
 ### NeurIPS
 - **Best Paper** 
-	- Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)
-	- A* Sampling
+	- Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS) [[Link]](https://proceedings.neurips.cc/paper/2014/hash/310ce61c90f3a46e340ee8257bc70e93-Abstract.html)
+	- A* Sampling [[Link]](https://proceedings.neurips.cc/paper/2014/hash/309fee4e541e51de2e41f21bebb342aa-Abstract.html)
 ### ECCV (Zürich, Switzerland)
 - **Best Paper** 
 	- Large-Scale Object Classification using Label Relation Graphs [[Link]](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_4)
@@ -256,18 +256,18 @@ If you have any comments, suggestions and improvements, please submit the issue 
 ## 2013
 ### AAAI
 - **Outstanding Paper** 
-	- SMILe: Shuffled Multiple-Instance Learning
-	- HC-Search: Learning Heuristics and Cost Functions for Structured Prediction
+	- SMILe: Shuffled Multiple-Instance Learning [[Link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/viewPaper/6405)
+	- HC-Search: Learning Heuristics and Cost Functions for Structured Prediction [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/8664)
 - **Outstanding Paper Honorable Mention** 
-	- On the Value of Using Group Discounts under Price Competition
-	- PAC Optimal Exploration in Continuous Space Markov Decision Processes
-	- Sensitivity of Diffusion Dynamics to Network Uncertainty
-	- Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers
+	- On the Value of Using Group Discounts under Price Competition [[Link]](https://www.sciencedirect.com/science/article/pii/S000437021400085X)
+	- PAC Optimal Exploration in Continuous Space Markov Decision Processes [[Link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/viewPaper/6453)
+	- Sensitivity of Diffusion Dynamics to Network Uncertainty [[Link]](http://www.jair.org/index.php/jair/article/view/10906)
+	- Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/8617)
 ### NeurIPS
 - **Best Paper** 
-	- A Memory Frontier for Complex Synapses
-	- Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints
-	- Scalable Influence Estimation in Continuous-Time Diffusion Networks
+	- A Memory Frontier for Complex Synapses [[Link]](https://proceedings.neurips.cc/paper/2013/hash/7f24d240521d99071c93af3917215ef7-Abstract.html)
+	- Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints [[Link]](https://proceedings.neurips.cc/paper/2013/hash/a1d50185e7426cbb0acad1e6ca74b9aa-Abstract.html)
+	- Scalable Influence Estimation in Continuous-Time Diffusion Networks [[Link]](https://proceedings.neurips.cc/paper/2013/hash/8fb21ee7a2207526da55a679f0332de2-Abstract.html)
 ### ICCV (Sydney, Australia)
 - **Best Paper** 
 	- From Large Scale Image Categorization to Entry- Level Categories [[Link]](https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Ordonez_From_Large_Scale_2013_ICCV_paper.html)
