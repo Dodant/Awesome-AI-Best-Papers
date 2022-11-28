@@ -18,7 +18,7 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2022
-### AAAI
+### AAAI (Virtual / Feb 22 - Mar 1)
 - **Outstanding Paper** 
 	- Online Certification of Preference-based Fairness for Personalized Recommender Systems [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/20606)
 - **Outstanding Paper Honorable Mention** 
@@ -39,7 +39,7 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2021
-### AAAI
+### AAAI (Virtual / Feb 2-9)
 - **Outstanding Paper** 
 	- Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/17325)
 	- Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory [[Link]](https://www.sciencedirect.com/science/article/pii/S0004370221002046)
@@ -74,7 +74,7 @@ If you have any comments, suggestions and improvements, please submit the issue 
 
 
 ## 2020
-### AAAI
+### AAAI (New York / Feb 7-12)
 - **Outstanding Paper** 
 	- WinoGrande: An Adversarial Winograd Schema Challenge at Scale [[Link]](https://dl.acm.org/doi/abs/10.1145/3474381)
 - **Outstanding Paper Honorable Mention** 
